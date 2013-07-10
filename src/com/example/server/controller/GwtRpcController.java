@@ -1,4 +1,4 @@
-package com.a24studio.server.controller;
+package com.example.server.controller;
 
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;

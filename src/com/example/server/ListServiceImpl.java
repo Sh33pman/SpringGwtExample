@@ -1,8 +1,8 @@
-package com.a24studio.server;
+package com.example.server;
 
 import java.util.ArrayList;
 
-import com.a24studio.client.ListService;
+import com.example.client.ListService;
 
 /**
  * The list service implementation

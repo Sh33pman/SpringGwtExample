@@ -13,9 +13,9 @@
 		</property>
 	</bean>
 	
-	<bean name="listController" class="com.a24studio.server.controller.GwtRpcController">
+	<bean name="listController" class="com.example.server.controller.GwtRpcController">
 		<property name="remoteService">
-			<bean class="com.a24studio.server.ListServiceImpl" />
+			<bean class="com.example.server.ListServiceImpl" />
 		</property>
 	</bean>
 	

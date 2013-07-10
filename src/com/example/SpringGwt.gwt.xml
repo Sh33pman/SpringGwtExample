@@ -14,7 +14,7 @@
   <!-- Other module inherits                                      -->
 
   <!-- Specify the app entry point class.                         -->
-  <entry-point class='com.a24studio.client.SpringGwt'/>
+  <entry-point class='com.example.client.SpringGwt'/>
   
   <!-- Specify the paths for translatable code                    -->
   <source path='client'/>

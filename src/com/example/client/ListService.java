@@ -1,4 +1,4 @@
-package com.a24studio.client;
+package com.example.client;
 
 import java.util.ArrayList;
 
